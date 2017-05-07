@@ -1,6 +1,7 @@
 # flannvspq
   这几个函数需要在同一个目录下，同时在这个目录里还应该有flann的mex编译结果，包括flann_search以及相应的nearest_neighbors.mexw64文件。
- \n
+ 
+ 
   测试数据就是在代码目录下要有sift这个文件夹即可，路径在main.m里清晰可见。
   
   
